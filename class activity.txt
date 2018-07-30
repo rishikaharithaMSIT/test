@@ -1,0 +1,27 @@
+1)start
+2)read n
+3)if n is integer then
+	if n>1 then
+		maxprime=2
+		for i = 1 to n, increment i by 1 : 
+			if n%i=0 then
+				k=isprime(i)
+				if k=1 then
+					if maxprime<i then
+					maxprime=i
+		write maxprime
+	else
+		if n>0 then write "1"
+		else write "input should be > 0"
+         
+ else write "invalid input"
+4)end
+
+
+isPrime (i) :
+	factors=0
+	flag=0
+	for j = 1 to i, increment j by 1 :
+		if i%j=0 then factors=factors+1
+	if factors=2 then flag=1
+return flag
