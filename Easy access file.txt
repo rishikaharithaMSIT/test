@@ -1,0 +1,18 @@
+IITH SBI - 040-66531323
+
+https://www.pramp.com/#/
+
+http://10.10.10.3:1234/squish/ - check data used
+
+MSIT : M$itc1hL@pa$$w0rd
+proxy address port: 10.10.10.3 3128
+proxy username password : rishikaharitha 123456
+
+deepakbhimavarapu@msitprogram.net 9959567052
+
+moodle http://moodle2018.msitprogram.net/course/view.php?id=3 20186041  Changeme@2k18
+
+sudo python proxysetup.py
+10.10.10.3 3128
+rishikaharitha 123456
+
